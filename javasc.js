@@ -73,7 +73,7 @@ const checkWinner = () => {
 
                 showWinner(pos2val);
             }else {
-                message2.innerText = `Sorry No one wins! Try it next time `
+                // message2.innerText = `Sorry No one wins! Try it next time `
             }
     }
 }
